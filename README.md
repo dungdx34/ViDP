@@ -1,4 +1,4 @@
-###Cài đặt các thư viện sau:
+Cài đặt các thư viện sau:
 
 python 3.6 <br />
 pytorch 1.5.1 <br />
@@ -7,7 +7,7 @@ requests <br />
 tqdm <br />
 flask
 
-###Hướng dẫn chạy:
+Hướng dẫn chạy:
 
 Tải thư mục models (https://drive.google.com/file/d/1K3nqOhaEt9xFDPcC-rJGPLokjL3vHL16/view?usp=sharing)  và giải nén vào project. <br />
 Tải thư viện VncoreNLP về máy tại địa chỉ: https://github.com/vncorenlp/VnCoreNLP <br />
