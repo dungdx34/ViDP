@@ -1,0 +1,8 @@
+1	Hà Nội	_	_	NNP	_	3	nsubj
+2	là	_	_	V	_	3	cop
+3	thủ đô	_	_	N	_	0	root
+4	của	_	_	PRE	_	5	case
+5	nước	_	_	N	_	3	nmod:poss
+6	<_UNK>	_	_	NNP	_	5	compound
+7	.	_	_	PUNCT	_	3	punct
+
