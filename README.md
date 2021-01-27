@@ -1,9 +1,9 @@
 Cài đặt các thư viện sau:
-python 3.6
-pytorch 1.5.1
-gensim
-requests
-tqdm
+python 3.6,
+pytorch 1.5.1,
+gensim,
+requests,
+tqdm,
 flask
 
 Hướng dẫn chạy:
