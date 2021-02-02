@@ -1,10 +1,12 @@
 Cài đặt các thư viện sau:
 
 python 3.6 <br />
-pytorch 1.5.1 <br />
+pytorch 1.4.0 <br />
+transformers 3.4.0 <br />
 gensim <br />
 requests <br />
 tqdm <br />
+overrides <br />
 flask
 
 Hướng dẫn chạy:
